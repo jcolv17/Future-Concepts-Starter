@@ -3,7 +3,7 @@
 
 Purpose: a public, generic portfolio showing concepting, engineering rigor, documentation, and CI practices relevant to staff-level future concepts roles.
 
-What reviewers see quickly:
+Summary:
 - briefs/technical_brief_template.md and briefs/executive_one_pager.md
 - concepts/ multi-domain concept notes (air, maritime, space)
 - studies/ weighted trade study CSV and decision log
